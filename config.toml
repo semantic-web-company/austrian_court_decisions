@@ -1,0 +1,8 @@
+wic_tsv_de_folder='./wic_tsv_de'
+wic_tsv_pretrained_model='/home/revenkoa/local_data/models/wic_tsv_de_cls'
+tokenizer_name='bert-base-german-cased'
+nif_annotations_folder='/home/revenkoa/local_data/datasets/LER/cybly_decisions/ner_annotations_nif'
+manual_annotations_folder='/home/revenkoa/local_data/datasets/LER/cybly_decisions/gold_data/manually_annotated'
+manual_verified_folder='/home/revenkoa/local_data/datasets/LER/cybly_decisions/gold_data/manually_verified'
+output_folder='/home/revenkoa/local_data/datasets/LER/cybly_decisions/gold_data/train_datasets'
+log_path='/home/revenkoa/local_data/datasets/LER/cybly_decisions/gold_data/train_datasets/log.txt'

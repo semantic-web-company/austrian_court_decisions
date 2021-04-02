@@ -1,0 +1,100 @@
+Handwerker
+Skatausdruck	Kartenspielausdruck
+Börsenwesen	Präsenzbörse
+Extremität
+Person
+Bakterien
+Campingausrüstung
+Sternbild
+Teilmenge	Methode	Menge
+Schadsoftware
+Vertrag
+Logie	Unterbringung
+Pflanze
+Stadt
+Baumaschine
+Staat	Teilstaat
+Waffe
+Baum
+Bittbrief
+Meinungsverschiedenheit
+Musikgenre	Musikform
+Musikrichtung
+Transporteur
+Mensch	Person
+Ruheständler
+Mensch	Person
+Versuchstier
+Nutzung	Technik
+Meerestier
+Rennen
+Fachkraft
+Personengruppe
+Zug
+Denkmal
+Kroate
+Himmelsrichtung	Nebenhimmelsrichtung
+Naturgesetz
+Körper	Rest	Rückstand	Masse	Festkörper
+Gespräch
+Orchester
+Effektor
+Körperteil	Sinnesorgan
+Ära	Mesozoikum
+Gewürz
+Verhalten
+Wasser
+Geldschein
+Süßigkeit
+Ort	Gegend
+Zimmerpflanze	Pflanze	Blattpflanze	Zierpflanze	Grünpflanze	Aronstabgewächs	Lebewesen
+Gedicht	Lyrik
+Mensch	Person
+Frucht
+Reihenfolge	Platzierung
+Stilistik
+Anatomie	Enddarm	Arsch	Loch	Darm
+Pferd
+Bank
+Gleitfluggerät	Fluggerät	Sportgerät
+Organ
+Wein
+Lüftung	Vorrichtung	Technik
+Hornträger
+Gesellschaft
+Wissenschaft
+Käse
+vernunftbegabtes_Lebewesen	Mensch
+Verkehrsweg
+Gemeinde
+Gruppe
+Primat
+Metamorphit
+Lebensmittel	Nahrungsmittel	Nahrung	Flüssigkeit
+Pflanzengewebe
+Gesandter	Katholik
+Zierpflanze
+Obstbaum	Baum
+Matte
+Zeiteinheit
+Darsteller
+lexikalische_Computersoftware
+Speise	Mehlspeise
+Getränk	Lebensmittel	Heißgetränk	Kaffee
+Abbau
+Adeliger	Skandinavier	Wikinger
+Dasselfliege	Insekt
+Bau	Gebilde	Gebäude	Struktur	Einrichtung	Gefüge
+Algorithmus	Lösungsverfahren
+Siedlung	Stadtteil
+Zahlzeichen	Zahl_(gerade_Zahl	Ziffer	natürliche_Zahl)
+Zaun
+Technik	Bauwesen
+Punkt
+Vogel
+Lasttier	Esel
+Hilfe
+Institution
+Werkzeug
+Vorliebe
+Toilette

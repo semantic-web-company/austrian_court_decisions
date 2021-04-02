@@ -1,0 +1,100 @@
+Binder	10	`` Der Papa sprang auf und fasste sich an seinen Binder , als sei er ihm zu eng . ''
+Farbe	0	Farbe wird bedient .
+Parkett	2	Auf dem Parkett ging es heute ruhig zu .
+Flosse	18	`` An den Plastikhüllen , aus denen man die heißen Klöße herausfingern mußte , verbrühte ich mir die Flossen . ''
+Widerspruchsgeist	6	Er erweist sich immer wieder als Widerspruchsgeist .
+Antagonist	13	`` In vielen anderen ökologischen Wechselbeziehungen sind die daran beteiligten beiden Parteien keine Antagonisten , sondern nützlich füreinander : also Mutualisten oder Symbionten . ''
+Hering	17	`` Orcas gehören bekanntlich zur Familie der Delfine , sie verfügen über einen gewaltigen Appetit auf frische Heringe und machen vor den Lofoten Winterpause . ''
+Jungfrau	12	Spica ( deutsch `` Ähre '' ) ist der hellste Stern der Jungfrau .
+Filter	5	Hast du auch Zigaretten ohne Filter ?
+Trojaner	6	Hilfe ! Mein Computer hat einen Trojaner !
+Versicherung	5	`` Meine unter Erröten hervorgebrachte Versicherung , ich benötigte dieses Kleidungsstück nur zum Skilaufen , blieb unbeachtet . ''
+Pension	9	Berliner wird den Jungen wahrscheinlich zu Dr. Pfeffer in Pension geben ; dort ist es zehn Mark billiger .
+Elefantenfuß	8	Auf ihrer Reise nach Mexiko sahen sie viele Elefantenfüße .
+Straßburg	4	Aiud ( dt . 'Straßburg ' am Mieresch , ung . Nagyenyed ) ist eine Stadt im rumänischen Kreis Alba , etwa 100 Kilometer nordwestlich von Sibiu ( Hermannstadt ) . Sie liegt am Fluss Mureș ( Mieresch ) . ( Wikipedia )
+Walze	12	Vor der Verlegung der Schottersteine muss der Kies der Straße mit einer Walze geglättet werden .
+Curaçao	0	Curaçao ist seit 10 . Oktober 2010 autonomer Teilstaat des Königreichs der Niederlande .
+Artillerie	2	Wir müssen Artillerie auffahren .
+Aprikose	3	Ich esse gern Aprikosen .
+Brandbrief	9	`` Im Juni 2020 wurde publik , dass ein Brandbrief von einem KSK-Soldaten an die Verteidigungsministeriin Kramp-Karrenbauer gesendet wurde , in dem rechtsextreme Missstände innerhalb des Verbandes als tiefgreifend und strukturell bezeichnet werden . ''
+Donnerwetter	9	Wenn du jetzt nicht spurst , gibt es ein Donnerwetter !
+Arabeske	3	Die Musik der Arabesken ist leicht , zart und ausgefüllt mit Ornamenten , manchmal mit orientalischen Klängen .
+Punk	5	Ich mach ' jetz ' Punk . - ( Mike Krüger )
+Wagner	1	Der Wagner hielt an .
+Haus	7	`` Sie , die sonst ein fideles Haus war , haderte mit allen Menschen , die es eigentlich gut mit ihr meinten . ''
+Rentier	42	`` Wahrscheinlich ist , daß Kohl den Gedanken an den Ruhestand nicht ertrug . Rosenzucht in Oggersheim ? Gott bewahre . Rasen mähen , Fische gucken im Aquarium , den ganzen Tag ? Politik ist sein Leben , was soll er als Rentier ? ''
+Leute	2	`` Manche Leute verneigen / Sich gern vor Leuten , die ernsten Gesichts / Langdauernd schweigen . ''
+Versuchskaninchen	22	`` Den Medizinern vom Wake Forest Institut für Wiederherstellungsmedizin in Winston-Salem , North Carolina , gelang es , aus körpereigenen Zellen der Versuchskaninchen einen Schwellkörper zu züchten . ''
+Inanspruchnahme	9	Handwerkszeug unterliegt , durch starken Gebrauch , einer erheblichen Inanspruchnahme bis hin zum Defekt .
+Pocke	2	Pest und Pocken sind beide uralte Krankheiten .
+Schneckenrennen	1	Das Schneckenrennen gefiel besonders den Kindern .
+Lüftungsspezialist	2	`` Der Lüftungsspezialist Markus Späth baut als erstes Unternehmen im neuen Endinger Industriegebiet Holderacker . ''
+Fußvolk	26	Krakau als Stadt , ja eine ganze Region stellte sich in den Dienst der sechstägigen Veranstaltung [ dem Weltjugendtag ] . Eine Stadt stand still für Fußvolk und Radler .
+Umzug	1	Der Umzug durch die Fußgängerzone beginnt um 12:00 Uhr .
+Totenraststein	7	`` Mit der neuen Bepflanzung kommt der Totenraststein , der seit 1984 auf dieser Fläche steht , besser zur Geltung . ''
+Dalmatiner	1	Die Dalmatiner sind sehr mit dem Meer verbunden .
+Südwest	7	`` Jenen Sommer wehte es frisch aus Südwest , und der Kapitän wollte nicht bei ungünstigem Wind absegeln . ''
+Trägheit	9	`` Die schwarzen Notenköpfe verbeugten sich ironisch vor ihrer Trägheit in Form einer Pavane für eine tote Infantin und lösten sich auf . ''
+Satz	6	`` Im Unterschied zu den anderen Satzgliedern kann es in einem Satz mehrere adverbiale Bestimmungen geben . ''
+Diskurs	8	In der Linguistik und verwandten Disziplinen werden unter Diskurs recht verschiedene Dinge verstanden , je nach dem , in welcher Tradition der Begriff verwendet wird ; meist meint Diskurs eine Abfolge von Beiträgen verschiedener Personen oder Gruppen zu einem bestimmten Thema .
+Philharmonie	2	Die Dresdener Philharmonie gibt heute ein Konzert im Kulturpalast .
+Induktor	1	Dieser Induktor ist ein Molekül , das mit dem Regulatorprotein eine Verbindung eingeht .
+Fühler	4	Das Gerät ist mit Fühlern für Druck und Temperatur ausgestattet .
+Trias	21	`` Diese fluvialen Sandsteine und Konglomerate sind von mächtigen Dolomitabfolgen mit eingeschalteten bituminösen Schiefern , von Flachwasserkalken und Evaporiten der Mittleren Trias überlagert . ''
+Safran	0	Safran wird vor allem im Mittelmeerraum und in Persien angebaut .
+Spinnerei	4	Er stört mit seinen Spinnereien den ganzen Betrieb .
+Eis	2	Bei `` Eis '' mag man an Winter , Schnee und Frost denken , an arktische Temperaturen und überfrierende Nässe . Vermutlich ist jedoch vielen der Gedanke an einen Eisbecher an einem warmen Sommertag angenehmer .
+Riese	11	`` Der Sage nach rastete einst ein vom weiten Weg ermüdeter Riese auf der Felskante des Sonnenstein und schüttete währenddessen den Sand aus seinen Siebenmeilenstiefeln . ''
+Dragee	3	Wenn du die Dragees nicht mehr isst , setze ich sie weg .
+Einöde	5	Er lebt hier in der Einöde .
+Einblatt	1	Das Einblatt liebt ein leicht säuerliches Milieu .
+Ballade	1	Diese Ballade bringt mich zum Weinen !
+Rhinozeros	42	bildlich : `` [ ... ] In Paris macht man einen Mann unmöglich , indem man von ihm sagt : `` Er hat ein gutes Herz '' , denn das heißt soviel wie : `` Der arme Kerl ist dumm wie ein Rhinozeros . '' [ ... ] ''
+Hutzel	1	Die Hutzeln zu den Kartoffeln schütten und noch mal durchkochen .
+Achte	2	Sie sind Achte bei der Fußball WM 2002 geworden .
+Stil	5	Jeder Text weist seinen eigenen Stil auf .
+Arschloch	6	`` Die Zeit verwandelt sie in Arschlöcher , die nur darauf warten , die Waffe zu ziehen . ''
+Pferdeschwanz	15	`` Sie trug weiße Shorts und einen Büstenhalter , und ihr Haar war in einem Pferdeschwanz zusammengefaßt . ''
+Kasse	7	Ich gehe mal eben zum Bezahlen zur Kasse .
+Drachen	0	Drachen steigen lassen
+Galle	14	Wenn ich heute noch einmal zu spät komme , wird die Gruppenleiterin Gift und Galle spucken .
+Heuriger	1	Dieser Heurige sperrt erst im November auf .
+Lüftungsschieber	1	Der Lüftungsschieber , auch `` Rohrnetzrechner für Luftkanäle '' genannt , ist eine handliche Schieblehre zur Auslegung und Überprüfung von lüftungstechnischen Parametern .
+Ziege	14	`` Der Alpensteinbock [ ... ] ist eine in den Alpen verbreitete Art der Ziegen . ''
+Runde	27	`` Forstrat Bertram , Meixner durch die gemeinsame Jagd verbunden , hatte einen Film über die seit längerem beobachteten Baumschäden gedreht , den er gern in dieser Runde gezeigt hätte . ''
+Chronologie	1	Die Chronologie bemüht sich um eine möglichst präzise Bestimmung der Zeit .
+Appenzeller	0	Appenzeller zählt nicht zu meinen Lieblingskäsesorten , aber mein Mann liebt ihn .
+Schlaumeier	7	Das jüdische Volk ist kein Volk von Schlaumeiern , Weltverbesserern und reichen Menschen .
+Brücke	10	`` Doch wir haben noch einen schmalen Teppich , eine Brücke vielmehr : Ist die Frau Bürgermeister interessiert ? ''
+Brixen	5	Knapp 50 Kilometer nördlich von Brixen liegt der Brennerpass .
+Peloton	2	Mit großem Peloton seien die jedes Mal unterwegs gewesen , zwei Polizeimotorräder vorneweg und zwei mit Blaulicht hinter dem Feld .
+Affe	16	`` Im Gegensatz zu den Menschen mögen die ausschließlich im Simien-Gebirge heimischen äthiopischen Steinböcke die schlauen Affen . ''
+Schiefer	4	Das Dach war mit Schiefer gedeckt .
+Trunk	6	`` Die Erinnerung an den erfrischenden Trunk vom Vorabend schnürte mir den Magen zu . ''
+Stele	2	`` Die Stele mit dem lebensgroßen Relief König Sargons des Zweiten wurde nun auf der Insel Cypern aufgestellt und verbreitete Schrecken und Furcht unter der Bevölkerung . ''
+Legat	17	`` Unter den Führern dieser Schar befanden sich Markgraf Albrecht und Bischof Anselm von Havelberg als päpstlicher Legat . ''
+Adventsstern	6	An der Krippe ist oben der Adventsstern angebracht .
+Nussbaum	6	In unserem Garten steht ein großer Nussbaum .
+Fußmatte	4	`` Sogar die sechs Fußmatten hat er wieder ordentlich auf den Lichtschacht gelegt , durch den er möglicherweise eingestiegen war . ''
+Uhr	3	Es ist dreizehn Uhr dreiunddreißig Minuten .
+Akteur	2	`` Bekannteste Akteure im Fußball des SC Traktor waren Horst Saß und Dietmar Pfeifer . ''
+Scanner	3	Hast du einen Scanner ? Ich meine nicht nur das Gerät , sondern , viel wichtiger , die Software zur Worterkennung ?
+Scheiterhaufen	4	`` Sie wurde zum Scheiterhaufen geführt und auf einen Schemel gestellt . ''
+Kapuziner	2	`` Die Kapuziner betreuen seither die Wallfahrt zur Heiligen Kapelle mit dem Gnadenbild Unserer Lieben Frau in Altötting . ''
+Tiefbau	1	Der Tiefbau für die neue U-Bahn soll 2014 fertig sein .
+Jarl	1	Der Jarl ist mit dem deutschen Grafen vergleichbar .
+Engerling	0	Engerlinge sind Parasiten .
+Infrastruktur	3	Der Anbieter der Infrastruktur stellt Programme , Hardware und Datenübertragungskapazität zur Verfügung , und das Unternehmen als Kunde ist für die Inhalte zuständig .
+Elimination	7	Die Infektion ist auch noch nach der Elimination des Erregers nachweisbar .
+Kasbah	12	Durch stattliche Tore gelangt man in die Altstadt , wo sich die Kasbah , die ursprüngliche Festung , Mellah , das jüdische Viertel , und die Medina , das eigentliche Zentrum mit den Souks , befinden .
+Acht	17	`` `` Also merke dir die Zahlen : drei , vier , fünf , am Schluß die Acht . '' Krämer nickte . ''
+Gatter	6	Die Kinder klettern immer über das Gatter zum Nachbarn in den Garten .
+Verkleidung	10	Um unseren Flur zu verschönern , bekam der Heizkörper eine Verkleidung .
+Wendepunkt	15	`` Die Wahl des neuen Ministerpräsidenten in Thüringen mit Unterstützung der radikalrechten AfD ist ein Wendepunkt in der deutschen Politik [ ... ] . ''
+Sekretär	1	Der Sekretär hat schwarze Federn am Kopf , die er beim Paarungsritual aufstellt .
+Lastesel	0	Lastesel werden in Europa immer seltener .
+Aushilfe	4	In dieser Situation war Aushilfe dringend erwünscht .
+Archiv	12	Viele Firmen , politische Organisationen , Hochschulen etc . betreiben ein eigenes Archiv .
+Bohrer	4	Ich brauche den 6mm Bohrer .
+Neigung	6	`` Und das Unternehmen zeigt keinerlei Neigung , die lukrative Rohstoffförderung einfach so in die Hände Lumumbas zu geben - die Firma erzielt im Kongo etwa die Hälfte ihrer jährlichen Gewinne . ''
+Strickzimmer	7	`` Auf dem Hof befanden sich zwei Strickzimmer . Das waren unsere Klo 's . ''

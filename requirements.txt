@@ -1,0 +1,8 @@
+toml
+numpy==1.19.1
+torch==1.7.0
+tqdm==4.48.2
+transformers==3.5.1
+scikit-learn==0.23.2
+sklearn==0.0
+nif @ git+https://github.com/semantic-web-company/nif.git#egg=nif
