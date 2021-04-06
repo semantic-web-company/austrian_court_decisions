@@ -42,7 +42,7 @@ if __name__ == '__main__':
             incorrect_eics_dict=incorrect_classes,
             original_gold_eics=original_gold_eics,
             tag2type=tag2type,
-            training_neg_examples_per_positive=2,
+            training_neg_examples_per_positive=6,
             logger=logger,
             extend_by=None
         )
@@ -51,7 +51,7 @@ if __name__ == '__main__':
                                 train_ds=train_ds,
                                 dev_ds=dev_ds,
                                 logger=logger,
-                                epochs=12)
+                                epochs=10)
         print('Fine tuning done')
         logger.info('Fine tuning done')
     #
