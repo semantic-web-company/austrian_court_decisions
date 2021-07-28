@@ -10,8 +10,7 @@ from tqdm import tqdm
 import transformers as trs
 
 from nif.annotation import NIFDocument, NIFAnnotation
-from HyperBertCLS import prepare_hyperbert_input, WiCTSVDatasetCharOffsets
-
+from model_evaluation.wictsv_dataset import WiCTSVDataset, WiCTSVDatasetCharOffsets
 
 this_folder = Path(__file__).parent
 config = toml.load(this_folder / 'config.toml')
@@ -39,6 +38,20 @@ class EntityInContext:
         out = '\t'.join([self.target_str, str(self.start_ind), str(self.end_ind), self.context])
         return out
 
+    def to_conll(self, context_window_size: int = None) -> List[Tuple[str, str]]:
+        words, wsi, wei = char_offset2token_offset(self.context, self.start_ind, self.end_ind)
+        if context_window_size is not None:
+            assert context_window_size > 0, context_window_size
+            end_ent_i = wei + int(context_window_size / 2)
+            start_ent_i = wsi - int(context_window_size / 2)
+        out = [
+            (word, (f'I-{self.tag}' if (wsi <= i < wei and self.tag != 'Other') else
+                    'O' if (wsi <= i < wei and self.tag == 'Other') else 'None'))
+            for i, word in enumerate(words)
+            if end_ent_i > i >= start_ent_i
+        ]
+        return out
+
     def __eq__(self, other):
         if not isinstance(other, EntityInContext):
             return False
@@ -54,14 +67,18 @@ class RecognitionResult:
     entity: EntityInContext
     logits: Dict[str, float]
 
-    def predicted_types(self):
+    def predicted_types(self, other_type_label='Other'):
         preds = dict()
         for t, logit in self.logits.items():
             if logit > 0:
                 preds[t] = logit
         if not preds:
-            preds['Other'] = 1
+            preds[other_type_label] = 1
         return preds
+
+    def get_max_type(self):
+        best_type, best_logit = max(self.logits.items(), key=lambda x: x[1])
+        return best_type
 
 
 def char_offset2token_offset(
@@ -87,16 +104,13 @@ def do_disambiguate(
         tokenizer: trs.PreTrainedTokenizer,
         cxt_entity: EntityInContext,
         types: List[EntityType]):
-    tokens, tgt_si, tgt_ei = char_offset2token_offset(cxt=cxt_entity.context,
-                                                      si=cxt_entity.start_ind,
-                                                      ei=cxt_entity.end_ind)
-    encodings = prepare_hyperbert_input(tokenizer,
-                                        tokens,
-                                        tgt_si,
-                                        tgt_ei,
-                                        hypernyms_ls=[t.hypernyms for t in types],
-                                        definitions=[t.definition for t in types])
-    rs = model(**encodings)
+    test_ds = WiCTSVDatasetCharOffsets(tokenizer=tokenizer,
+                                       contexts=[cxt_entity.context],
+                                       target_ses=[(cxt_entity.start_ind, cxt_entity.end_ind)],
+                                       hypernyms=[t.hypernyms for t in types],
+                                       definitions=[t.definition for t in types],
+                                       )
+    rs = model(**test_ds[0])[0][0]
     return rs
 
 
@@ -215,7 +229,7 @@ def prepare_fine_tuning_ds(tokenizer,
     ds_defs = sampled_defs + negative_defs
     ds_hyps = sampled_hyps_ls + negative_hyps_ls
     ds_labels = [1]*len(sampled_contexts) + [0]*len(negative_contexts)
-    ds = WiCTSVDatasetCharOffsets(tok=tokenizer,
+    ds = WiCTSVDatasetCharOffsets(tokenizer=tokenizer,
                                   contexts=ds_cxts, target_ses=ds_ses,
                                   definitions=ds_defs, hypernyms=ds_hyps,
                                   labels=ds_labels)

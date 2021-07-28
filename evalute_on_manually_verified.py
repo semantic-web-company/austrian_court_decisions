@@ -9,7 +9,7 @@ from typing import List, Dict
 import transformers as trs
 from sklearn.metrics import precision_recall_fscore_support, accuracy_score, classification_report
 
-from HyperBertCLS import HyperBERT
+from HyperBert.HyperBert3 import HyperBert3 as HyperBERT
 import utils
 
 model_path = Path(utils.config['wic_tsv_pretrained_model'])
@@ -98,7 +98,7 @@ def fine_tune(out_dir,
     )
     trainer.train()
     # trainer.save_model()
-    logger.info(trainer.state.log_history)
+    logger.info(trainer.log_history)
     try:
         return trainer.model
     finally:
